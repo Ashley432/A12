@@ -1,0 +1,17 @@
+html{
+    background-color: darkseagreen;
+}
+
+body{
+    font-family: "Bookman Old Style";
+    margin: 70px 60px 60px;
+    width: 100%;
+}
+
+h2{
+    margin: 30px;
+}
+
+body img{
+    margin: 50px;
+}
